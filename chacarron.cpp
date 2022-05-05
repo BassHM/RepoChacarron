@@ -17,5 +17,10 @@ int main(){
         cout<<"Eres Bass. Chacarron"<<endl;
     }
 
+<<<<<<< HEAD
     
+=======
+    // Hola
+    // Soy omelo chino
+>>>>>>> 8d17bd4ce696374963970e143371099141d0e3ae
 }
